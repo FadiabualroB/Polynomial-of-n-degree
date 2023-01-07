@@ -1,5 +1,7 @@
 # Polynomial-of-n-degree
 
+Note: Please download the zip file for the complete code
+
 Background:
 As you know that polynomial of n degree is represented by an expression as below: A0Xn + A1Xn-1 + A2Xn-2 + ……………………………. + C = 0 Such polynomials may be stored in a linked list such that a node contains two integer data members that stores the coefficient and power of X. It would be helpful if the highest order term is stored as first node, successively followed by the lower order terms. Understand that constant term can be zero. Coefficients can be positive or negative. And some powers may be absent.
 
